@@ -1,7 +1,7 @@
 # Project: To answer the following research questions:
 # 1. Which genre of anime show was preferred overall (highest rated)?
-# 2. Which genre of anime show was popular by genre?
-# 3. Which genre of anime show was popular by age?
+# 2. Which genre of anime show was popular by genre (more users)?
+# 3. Which genre of anime show was popular by age (more users)?
 # data can be downloaded from Kaggle: "https://www.kaggle.com/azathoth42/myanimelist"
 
 library(data.table)
